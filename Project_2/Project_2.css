@@ -1,0 +1,165 @@
+body, html {
+    height: 100vh;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+.nav1 {
+    display: flex;
+    justify-content: space-between;
+    background-color:darkgoldenrod;
+    align-items: center;
+    border: 2px solid black;
+    width: 100%;
+    
+    
+    
+   
+}
+
+#welcome {
+    font-weight:800;
+    padding-left: 10px;
+    font-size: 26px;
+    color: white;
+    
+
+}
+
+.butns1 {
+    cursor: pointer;
+    border: 0px; 
+    font-size: 16px;
+    border-radius: 8px;
+    margin-right: 10px;
+    padding: 8px;
+    color: rgb(10, 10, 10);
+    background-color: #f7f7f8;
+    font-weight: 800;
+}
+.butns1:hover {
+    cursor: pointer;
+    
+    font-size: 16px;
+    border-radius: 8px;
+    margin-right: 10px;
+    padding: 8px;
+    color: rgb(10, 10, 10);
+    background-color: #ffffff;
+    font-weight: 800;
+}
+
+
+
+
+
+
+.hire {
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px 22px;
+    color: rgb(207, 74, 74);
+    font-weight: 600;
+    background-color: rgb(255, 255, 255);   
+}
+
+
+
+.b1 {
+    margin: 0px 8px;
+}
+
+
+
+
+.b14 {
+    margin-right: 20px;
+}
+
+/* Under Nav Bar */
+
+.name1 {
+    width: 100%;
+    border: 2px solid black;
+    height: 800px;
+    background-color: black;
+    position: relative;
+    
+    
+    
+}
+
+.span1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 200px;
+    font-weight: 800;
+    margin: 0px 0px 0px 0px;
+    color: darkgoldenrod;
+    position: relative;
+    left: 10%;
+    
+}
+.span2 {
+    position: absolute;
+    top: 27%;
+    left: 30%;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    font-size: 90px;
+
+}
+
+.span3 {
+    font-size: 56px;
+    position: absolute;
+    top:50%;
+    left:40%;   
+    color:#808080
+}
+
+.span4 {
+    font-size: 32px;
+    position: absolute;
+    top:60%;
+    left: 53%; 
+    color:#808080
+
+}
+
+#Asem {
+    width: 26%;
+    border: 0;
+    border-radius: 0% 0% 0% 10%;
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+
+}
+
+.ee {
+    color: goldenrod;
+}
+
+.hr1{
+    width: 100%;
+   background-color:  darkgoldenrod;
+    height: 20px;
+    padding-top: 20px;
+}
+
+.section {
+    background-color: black;
+    width: auto;
+    height: 100%;
+
+}
+
+.obj1 {
+    color: white;
+    position: relative;
+    left: 46%;
+   display: inline-block;
+   margin-top: 20px;
+   font-size: 70px;
+}
