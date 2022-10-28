@@ -5,7 +5,10 @@ body, html {
     margin: 0%;
     padding: 0%;
 }
-
+*{
+    margin: 0;
+    padding: 0;
+}
 html {
     scroll-behavior: smooth;
 }
@@ -197,9 +200,11 @@ html {
    
 }
 
-.list1 {
+.objclass {
     font-size: 22px;
     color: white;
+    text-align: center;
+    height: 400px;
     
     
 
@@ -209,30 +214,44 @@ html {
     height:400px;
     position: relative;
 }
-
-.edu1 {
-    
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: repeat(2,auto);
-    align-items: center;
-    background-color: rgb(209, 153, 84);
-    margin-left: 40%;
-    margin-right: 25%;
-    position: absolute;
-    bottom: 50%;
-    left: 7%;
-    gap: 40px;
-   
-   
-   
+.ul1{
+    display: inline-flex;
+    position: relative;
+    animation: anim 12s ease-in-out infinite;
 }
 
-li 
-{
-  
-    color: white;
-    font-size: 22px;
+.li1 {
+
+     width: 700px;
+     height: 300px;
+     background-image: url(Coding-Academy-Logo.jpg);
+     background-size: 700px 300px;
     
     
+    
+}
+.li2 {
+    width: 700px;
+    height: 300px;
+    background-image: url(univ.png);
+    background-size: 700px 300px;
+}
+.li3 {
+    width: 700px;
+    height: 300px;
+    background-image: url(rosary.jpg);
+    background-size: 700px 300px;
+    
+}
+
+.edu1 {
+    margin: auto;
+    width: 700px;
+    overflow: hidden;
+}
+
+@keyframes anim {
+    1% {right: 0;}
+    50% {right: 700px;}
+    100% {right: 1400px;}
 }
