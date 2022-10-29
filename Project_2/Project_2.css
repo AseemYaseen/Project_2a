@@ -15,7 +15,8 @@ html {
 
 .nav1 {
     display: flex;
-    position: sticky;
+    position: fixed;
+    z-index: 1;
     top: 0px;
     justify-content: space-between;
     background-color:darkgoldenrod;
@@ -25,18 +26,9 @@ html {
    
 }
 
-.fix1 {
-    
-}
-
-
 
 #welcome {
-    font-weight:800;
-    padding-left: 10px;
-    font-size: 26px;
-    color: wheat;
-    
+   width: 80px;
 
 }
 
@@ -53,11 +45,6 @@ html {
 }
 
 
-
-
-
-
-
 .hire {
     cursor: pointer;
     font-size: 20px;
@@ -69,7 +56,7 @@ html {
 
 .hire:hover {
 
-    font-size: 24px;
+    scale: 1.1;
     transition-duration: 0.4s;
     background-color: white;
     
@@ -87,11 +74,9 @@ html {
     background-color: white;
     color:darkblue;
     transition-duration: 0.4s;
-    font-size: 18px;
+    scale: 1.1;
     
 }
-
-
 
 
 .b14 {
@@ -106,8 +91,6 @@ html {
     height: 800px;
     background-color: black;
     position: relative;
-    
-    
     
 }
 
@@ -156,7 +139,6 @@ html {
     right: 0%;
     bottom: 0%;
 
-
 }
 .fa-code{
     
@@ -166,7 +148,6 @@ html {
     bottom: 20px;
     left: 30px;
 
-
 }
 
 
@@ -174,13 +155,19 @@ html {
     color: goldenrod;
 }
 
+
 .border1 {
     border-width: 8px 0px 0px 0px;
     color: goldenrod;
     border-style: solid;
     
-    
 }
+
+
+/* objective */
+
+
+
 
 #section1 {
     background-color: black;
@@ -201,45 +188,44 @@ html {
 }
 
 .objclass {
-    font-size: 22px;
+    
     color: white;
     text-align: center;
     height: 400px;
+    font-family: 'Lobster', cursive;
+    font-size: 33px;
     
-    
-
 }
 .education {
     background-color: black;
     height:400px;
     position: relative;
+    height: auto;
 }
 .ul1{
     display: inline-flex;
     position: relative;
-    animation: anim 12s ease-in-out infinite;
+    animation: anim 12s ease-in-out infinite alternate-reverse;
 }
 
 .li1 {
 
      width: 700px;
      height: 300px;
-     background-image: url(Coding-Academy-Logo.jpg);
+     background-image: url(./images/Coding-Academy-Logo.jpg);
      background-size: 700px 300px;
-    
-    
     
 }
 .li2 {
     width: 700px;
     height: 300px;
-    background-image: url(univ.png);
+    background-image: url(./images/univ.png);
     background-size: 700px 300px;
 }
 .li3 {
     width: 700px;
     height: 300px;
-    background-image: url(rosary.jpg);
+    background-image: url(./images/rosary.jpg);
     background-size: 700px 300px;
     
 }
@@ -255,3 +241,115 @@ html {
     50% {right: 700px;}
     100% {right: 1400px;}
 }
+
+
+
+.li4{
+    color: white;
+    font-size: 20px;
+}
+
+.p3 {
+    color: wheat;
+}
+
+     /* skills */
+
+.skills {
+    position: relative;
+    margin-left: 7%;
+}
+
+.skills2 {
+    width: 75%;
+  background-color: #ddd;
+}
+
+.ab {
+    color: white;
+    font-size: 26px;
+}
+
+.aa {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.html2 {
+    width: 94%; background-color: #04AA6D
+}
+.css2{
+    width: 88%; background-color: #04AA6D
+}
+
+.js2 {
+    width: 7%; background-color: #930920
+}
+
+.react2 {
+    width: 40%; background-color: #ddd;
+    color: black;
+    
+}
+
+.future{
+    position: absolute;
+    right: 3%;
+    top:10%;
+    color: white;
+    font-size: 18px;
+    font-family: 'Lobster', cursive;
+}
+
+.border2 {
+    position:absolute;
+    right: 21%;
+    
+    border-width: 0px 8px 0px 0px;
+    color: goldenrod;
+    border-style: solid;   
+    height: 100%;
+}
+
+.languages {
+    width: 70px;
+    
+}
+
+.l1 {
+    position: absolute;
+   right: 15%;
+   top: 17%;
+}
+
+.l2{
+    position: absolute;
+    right: 10%;
+    top: 17%;
+     
+}
+
+.l3{
+    position: absolute;
+    right: 5%;
+    top: 17%;
+}
+
+.l4{
+    position: absolute;
+    right: 15%;
+    top: 35%;
+}
+
+
+.l5 {
+    position: absolute;
+    right: 10%;
+    top: 35%;
+
+}
+
+
+
