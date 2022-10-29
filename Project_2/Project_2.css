@@ -189,7 +189,7 @@ html {
    left: 45%;
    display: inline-block;
    margin: 20px;
-   font-size: 60px;
+   font-size: 38px;
    font-family: 'Playfair Display', serif;
    
 }
@@ -203,6 +203,14 @@ html {
     font-size: 33px;
     
 }
+
+.wordsobjective{
+    color: goldenrod;
+}
+
+
+
+
 .education {
     background-color: black;
     height:400px;
@@ -416,9 +424,9 @@ html {
     left: 2%;
     top: 10%;
     color: goldenrod;
-    font-size: 40px;
+    font-size: 30px;
     border: 1px solid black;
-    width: 400px;
+    width: 350px;
     font-family: 'Lobster', cursive;
 }
 
