@@ -23,15 +23,19 @@ html {
     align-items: center;
     border: 2px solid black;
     width: 100%; 
+    
    
 }
 
 
 #welcome {
-   width: 80px;
+   width: 60px;
 
 }
 
+#home{
+    text-decoration: none;
+}
 .butns1 {
     cursor: pointer;
     border: 0px; 
@@ -39,9 +43,10 @@ html {
     border-radius: 8px;
     margin-right: 10px;
     padding: 8px;
-    color: rgb(10, 10, 10);
-    background-color: rgb(245, 222, 178);
-    font-weight: 800;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    
 }
 
 
@@ -49,16 +54,17 @@ html {
     cursor: pointer;
     font-size: 20px;
     padding: 10px 22px;
-    color: rgb(242, 4, 4);
+    color: white;
     font-weight: 600;
-    background-color: rgb(245, 222, 178);
+    text-decoration: none;
+    
 }
 
 .hire:hover {
 
     scale: 1.1;
     transition-duration: 0.4s;
-    background-color: white;
+    color: red;
     
     
 }
@@ -71,7 +77,7 @@ html {
 
 .b1:hover {
 
-    background-color: white;
+    
     color:darkblue;
     transition-duration: 0.4s;
     scale: 1.1;
@@ -182,8 +188,9 @@ html {
    position: relative;
    left: 45%;
    display: inline-block;
-   margin-top: 20px;
+   margin: 20px;
    font-size: 60px;
+   font-family: 'Playfair Display', serif;
    
 }
 
@@ -237,7 +244,7 @@ html {
 }
 
 @keyframes anim {
-    1% {right: 0;}
+    1% {right: 0px;}
     50% {right: 700px;}
     100% {right: 1400px;}
 }
@@ -299,8 +306,8 @@ html {
     right: 3%;
     top:10%;
     color: white;
-    font-size: 18px;
-    font-family: 'Lobster', cursive;
+    font-size: 19px;
+    font-family: 'Playfair Display', serif;
 }
 
 .border2 {
@@ -350,6 +357,106 @@ html {
     top: 35%;
 
 }
+
+   /* Projects */
+
+   .theprojects{
+    height: auto;
+    background-color: black;
+   }
+
+   .maincont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    
+   }
+
+.nn   {
+    
+    color: white;
+    text-align: center;
+    margin-top: 30%;
+    margin-bottom: 70%;
+}
+
+.pro1img {
+    width: 350px;
+    height:200px;
+    border: 3px solid goldenrod;
+}
+
+.nn:hover {
+    cursor: pointer;
+    scale: 1.1;
+    transition: 0.4s;
+
+}
+
+
+   /* Contact me */
+
+#footer {
+    background-color: black;
+    height: 50%;
+    width: 100%;
+    position: relative;
+}
+
+#contact0{
+    position: absolute;
+    right: 48%;
+}
+
+
+.wisdome {
+    position: absolute;
+    left: 2%;
+    top: 10%;
+    color: goldenrod;
+    font-size: 40px;
+    border: 1px solid black;
+    width: 400px;
+    font-family: 'Lobster', cursive;
+}
+
+
+.icon1 {
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    width: 60px;
+}
+.icon2 {
+    position: absolute;
+    top: 52%;
+    left: 55%;
+    width: 60px;
+}
+   
+.icon3 {
+    position: absolute;
+    top: 52%;
+    left: 60%;
+    width: 60px;
+}
+
+.icon4 {
+    position: absolute;
+    top: 52%;
+    left: 65%;
+    width: 60px;
+}
+
+.icon5 {
+    position: absolute;
+    top: 52%;
+    left: 70%;
+    width: 60px;
+}
+   
 
 
 
