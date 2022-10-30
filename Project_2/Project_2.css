@@ -70,6 +70,7 @@ html {
     font-weight: 800;
     position: relative;
     top: 10px;
+   
     
 }
 .hire:hover {
@@ -77,6 +78,7 @@ html {
    
     transition-duration: 0.4s;
     color: red;
+    
     
     
 }
@@ -231,6 +233,7 @@ header {
 .wordsobjective{
     color: goldenrod;
     font-weight: 800;
+    font-size: 24px;
 }
 
 .objective0 {
@@ -473,24 +476,20 @@ header {
     width: 60px;
 }
    
-.icon3 {
+
+
+
+.icon4 {
     position: absolute;
     top: 52%;
     right: 15%;
     width: 60px;
 }
 
-.icon4 {
-    position: absolute;
-    top: 52%;
-    right: 20%;
-    width: 60px;
-}
-
 .icon5 {
     position: absolute;
     top: 52%;
-    right: 25%;
+    right: 20%;
     width: 60px;
 }
 
