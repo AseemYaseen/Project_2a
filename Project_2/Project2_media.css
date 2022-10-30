@@ -1,0 +1,2476 @@
+
+@media screen and (max-width:361px){ 
+
+    .nav1{
+        width: 359px;
+    }
+         
+    
+    
+    .maincont{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        grid-template-rows: repeat(4,340px);
+        width: 100%
+        
+        
+       }
+    
+    
+    .span1 {
+        
+        font-size: 80px;
+        margin: 0px 0px 0px 0px;
+        position: relative;
+        left: 10%;
+        top: 15%;
+        
+    }
+    .span2 {
+        position: absolute;
+        top: 30%;
+        left: 30%;
+        font-family: 'Roboto Slab', serif;
+        font-size: 50px;
+    
+    }
+    
+    .span3 {
+        font-size: 28px;
+        position: absolute;
+        top:45%;
+        left:40%;   
+        color:rgb(255, 217, 0);
+    }
+    
+    .span4 {
+        font-size: 20px;
+        position: absolute;
+        top:60%;
+        left: 53%; 
+        color:#808080
+    
+    }
+    
+    #Asem {
+        width: 50%;
+        border: 0;
+        border-radius: 0% 0% 0% 10%;
+        position: absolute;
+        right: 0%;
+        bottom: 0%;
+    
+    }
+    .fa-code{
+        
+        position: absolute;
+        color: goldenrod;
+        font-size: 40px;
+        bottom: 5%;
+        left: 30px;
+    
+    }
+    
+    
+    
+    
+          /* Skills */
+    
+    
+          .skills{
+            position: relative;
+            background-color: black;
+            height: 60%;
+         }                                         
+         
+                                                
+         
+         .skillscon{
+             display: grid;
+             grid-template-columns: repeat(3,1fr);
+         }
+         
+         .skills1 {
+             color: white;
+             
+         }
+         
+         
+         
+         .myskills {
+             width: 25px;
+         
+         }
+         
+         .myskills1 {
+             color: white;
+             position: absolute;
+             left: 10%;
+             top: 25%;
+              
+         }
+         
+         .skillname{
+             font-family: 'Cinzel', serif;
+             font-size: 12px;
+         
+         }
+         
+         
+         
+         
+         .future{
+          
+             color: white;
+             font-size: 12px;
+             font-family: 'Playfair Display', serif;
+             
+         }
+         
+         .already {
+             top: 0%;
+             color: white;
+             font-size: 12px;
+             font-family: 'Playfair Display', serif;
+         }
+         
+         .padding1 {
+             padding-left: 40px;
+         }
+         
+         .padding2 {
+             padding-left: 50px;
+         }
+         
+         
+         
+         
+         .languages {
+             width: 20px;
+           
+         }
+         
+         
+         .listskill{
+      
+             position: absolute;
+             left: 40%;
+             top: 20%;
+             font-size: 11px;
+             font-weight: 700;
+             font-family: 'Cinzel', serif;
+         
+       
+       
+     }
+     
+     
+     
+     .listskill{
+         color: rgb(255, 255, 255);
+         position: absolute;
+             
+         font-size: 10px;
+         font-weight: 700;
+         font-family: 'Cinzel', serif;
+     
+     }
+    
+    
+                       /* Footer */
+    
+     #footer {
+        background-color: black;
+        height: 50%;
+        width: 100%;
+        position: relative;
+    }
+    
+    #contact0{
+        position: absolute;
+        right: 48%;
+    }
+    
+    
+    .wisdome {
+        position: absolute;
+        top: 70%;
+        left: 1%;
+        font-size: 10px;
+        width: 350px;
+        font-family: 'Lobster', cursive;
+    }
+    
+    
+    .icon1 {
+        position: absolute;
+        top: 52%;
+        right: 5%;
+        width: 20px;
+    }
+    .icon2 {
+        position: absolute;
+        top: 52%;
+        right: 10%;
+        width: 20px;
+    }
+       
+    .icon3 {
+        position: absolute;
+        top: 52%;
+        right: 15%;
+        width: 20px;
+    }
+    
+    .icon4 {
+        position: absolute;
+        top: 52%;
+        right: 20%;
+        width: 20px;
+    }
+    
+    .icon5 {
+        position: absolute;
+        top: 52%;
+        right: 25%;
+        width: 20px;
+    }
+    
+    .myname {
+        color: white;
+        font-size: 10px;
+        position: absolute;
+        top: 50%;
+        left: 3%;
+        color: goldenrod;
+        font-family: 'Lobster', cursive;
+    
+    }
+    
+    .mynumber {
+        font-size: 10px;
+        position: absolute;
+        right: 5%;
+        top: 40%;
+    }
+    
+    .or {
+    
+        font-size: 10px;
+        position: absolute;
+        right: 17%;
+        top: 45%;
+    
+    }
+    
+    .allsection {
+        position: relative;
+        left: 45%;
+        display: inline-block;
+        margin: 20px;
+        font-size: 16px;
+      
+        
+     }
+    
+               /* Objec */
+     
+     .objclass {
+         
+         color: white;
+         font-family: 'Lobster', cursive;
+         font-size: 12px;
+         border: 1px solid black;
+         text-align: center;
+         
+        
+         
+     }
+    
+             /* media for slider */
+    
+    
+     .li1 {
+    
+        width: 200px;
+        height: 300px;
+        background-image: url(./images/Coding-Academy-Logo.jpg);
+        background-size: 200px 300px;
+       
+    }
+    .li2 {
+       width: 200px;
+       height: 300px;
+       background-image: url(./images/univ.png);
+       background-size: 200px 300px;
+    }
+    .li3 {
+       width: 200px;
+       height: 300px;
+       background-image: url(./images/rosary.jpg);
+       background-size: 200px 300px;
+       
+    }
+    
+    .edu1 {
+       margin: auto;
+       width: 200px;
+       overflow: hidden;
+    }
+    
+    @keyframes anim {
+       1% {right: 0px;}
+       50% {right: 200px;}
+       100% {right: 400px;}
+    }
+    
+    
+    
+    .li4{
+       font-size: 16px;
+    }
+    }                                               
+      
+    
+                                                 /* Media new */
+    @media screen and (min-width:361px) and (max-width:414px){ 
+    
+    
+        .nav1{
+            width: 415px;
+        }
+             
+        
+        
+        .maincont{
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+            grid-template-rows: repeat(4,340px);
+            width: 100%
+            
+            
+           }
+        
+        
+        .span1 {
+            
+            font-size: 80px;
+            margin: 0px 0px 0px 0px;
+            position: relative;
+            left: 10%;
+            top: 15%;
+            
+        }
+        .span2 {
+    
+            font-size: 50px;
+        
+        }
+        
+        .span3 {
+            font-size: 28px;
+    
+        }
+        
+        .span4 {
+            font-size: 20px;
+        
+        }
+        
+        #Asem {
+            width: 50%;
+            border: 0;
+            border-radius: 0% 0% 0% 10%;
+            position: absolute;
+            right: 0%;
+            bottom: 0%;
+        
+        }
+        .fa-code{
+            
+            font-size: 44px;
+    
+        
+        }
+        
+        
+        
+        
+              /* Skills */
+        
+        
+     
+                                                    
+             
+             .skillscon{
+                 display: grid;
+                 grid-template-columns: repeat(3,1fr);
+             }
+             
+             
+             
+             
+             .myskills {
+                 width: 25px;
+             
+             }
+             
+             .myskills1 {
+                 color: white;
+                 position: absolute;
+                 left: 10%;
+                 top: 25%;
+                  
+             }
+             
+             .skillname{
+                 font-family: 'Cinzel', serif;
+                 font-size: 10px;
+             
+             }
+             
+             
+             
+             
+             .future{
+              
+                 color: white;
+                 font-size: 10px;
+                 font-family: 'Playfair Display', serif;
+                 
+             }
+             
+             .already {
+                 top: 0%;
+                 color: white;
+                 font-size: 10px;
+                 font-family: 'Playfair Display', serif;
+             }
+             
+             .padding1 {
+                 padding-left: 40px;
+             }
+             
+             .padding2 {
+                 padding-left: 50px;
+             }
+             
+             
+             
+             
+             .languages {
+                 width: 20px;
+               
+             }
+             
+             
+             .listskill{
+          
+                 position: absolute;
+                 left: 40%;
+                 top: 20%;
+                 font-size: 10px;
+                 font-weight: 700;
+                 font-family: 'Cinzel', serif;
+             
+           
+           
+         }
+         
+         
+         
+         .listskill{
+    
+             font-size: 10px;
+             font-weight: 700;
+             font-family: 'Cinzel', serif;
+         
+         }
+        
+        
+                           /* Footer */
+        
+         #footer {
+            background-color: black;
+            height: 50%;
+            width: 100%;
+            position: relative;
+        }
+        
+        #contact0{
+            position: absolute;
+            right: 48%;
+        }
+        
+        
+        .wisdome {
+            position: absolute;
+            top: 70%;
+            left: 1%;
+            font-size: 10px;
+            width: 350px;
+            font-family: 'Lobster', cursive;
+        }
+        
+        
+        .icon1 {
+            position: absolute;
+            top: 52%;
+            right: 5%;
+            width: 20px;
+        }
+        .icon2 {
+            position: absolute;
+            top: 52%;
+            right: 10%;
+            width: 20px;
+        }
+           
+        .icon3 {
+            position: absolute;
+            top: 52%;
+            right: 15%;
+            width: 20px;
+        }
+        
+        .icon4 {
+            position: absolute;
+            top: 52%;
+            right: 20%;
+            width: 20px;
+        }
+        
+        .icon5 {
+            position: absolute;
+            top: 52%;
+            right: 25%;
+            width: 20px;
+        }
+        
+        .myname {
+            color: white;
+            font-size: 10px;
+            position: absolute;
+            top: 50%;
+            left: 3%;
+            color: goldenrod;
+            font-family: 'Lobster', cursive;
+        
+        }
+        
+        .mynumber {
+            font-size: 10px;
+            position: absolute;
+            right: 5%;
+            top: 40%;
+        }
+        
+        .or {
+        
+            font-size: 10px;
+            position: absolute;
+            right: 17%;
+            top: 45%;
+        
+        }
+        
+        .allsection {
+            position: relative;
+            left: 45%;
+            display: inline-block;
+            margin: 20px;
+            font-size: 16px;
+          
+            
+         }
+        
+                   /* Objec */
+         
+         .objclass {
+             
+             color: white;
+             font-family: 'Lobster', cursive;
+             font-size: 12px;
+             border: 1px solid black;
+             text-align: center;
+             
+            
+             
+         }
+        
+                 /* media for slider */
+        
+        
+         .li1 {
+        
+            width: 250px;
+            height: 300px;
+            background-image: url(./images/Coding-Academy-Logo.jpg);
+            background-size: 250px 300px;
+           
+        }
+        .li2 {
+           width: 250px;
+           height: 300px;
+           background-image: url(./images/univ.png);
+           background-size: 250px 300px;
+        }
+        .li3 {
+           width: 250px;
+           height: 300px;
+           background-image: url(./images/rosary.jpg);
+           background-size: 250px 300px;
+           
+        }
+        
+        .edu1 {
+           margin: auto;
+           width: 250px;
+           overflow: hidden;
+        }
+        
+        @keyframes anim {
+           1% {right: 0px;}
+           50% {right: 250px;}
+           100% {right: 400px;}
+        }
+        
+        
+        
+        .li4{
+           font-size: 16px;
+        }
+          
+    
+    }
+    
+    @media screen and (min-width:414px) and (max-width:540px)
+    
+    
+    {
+    
+    .nav1{
+        width: 540px;
+    }
+         
+    
+    
+    .maincont{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        grid-template-rows: repeat(4,340px);
+        width: 100%
+        
+        
+       }
+    
+    
+    .span1 {
+        
+        font-size: 80px;
+        margin: 0px 0px 0px 0px;
+        position: relative;
+        left: 10%;
+        top: 15%;
+        
+    }
+    .span2 {
+    
+        font-size: 50px;
+    
+    }
+    
+    .span3 {
+        font-size: 28px;
+    
+    }
+    
+    .span4 {
+        font-size: 20px;
+        position: absolute;
+        top:53%;
+        left: 53%; 
+    
+    }
+    
+    #Asem {
+        width: 50%;
+        border: 0;
+        border-radius: 0% 0% 0% 10%;
+        position: absolute;
+        right: 0%;
+        bottom: 0%;
+    
+    }
+    .fa-code{
+        
+        font-size: 44px;
+    
+    
+    }
+    
+    
+    
+    
+          /* Skills */
+    
+    
+    
+                                                
+         
+         .skillscon{
+             display: grid;
+             grid-template-columns: repeat(3,1fr);
+         }
+         
+         
+         
+         
+         .myskills {
+             width: 25px;
+         
+         }
+         
+         .myskills1 {
+             position: absolute;
+             left: 10%;
+             top: 25%;
+              
+         }
+         
+         .skillname{
+             font-family: 'Cinzel', serif;
+             font-size: 12px;
+         
+         }
+         
+         
+         
+         
+         .future{
+          
+             color: white;
+             font-size: 12px;
+             font-family: 'Playfair Display', serif;
+             
+         }
+         
+         .already {
+             top: 0%;
+             color: white;
+             font-size: 12px;
+             font-family: 'Playfair Display', serif;
+         }
+         
+         .padding1 {
+             padding-left: 40px;
+         }
+         
+         .padding2 {
+             padding-left: 50px;
+         }
+         
+         
+         
+         
+         .languages {
+             width: 20px;
+           
+         }
+         
+         
+         .listskill{
+      
+             position: absolute;
+             left: 40%;
+             top: 20%;
+             font-size: 10px;
+             font-weight: 700;
+             font-family: 'Cinzel', serif;
+         
+       
+       
+     }
+     
+     
+     
+     .listskill{
+    
+         font-size: 10px;
+         font-weight: 700;
+         font-family: 'Cinzel', serif;
+     
+     }
+    
+    
+                       /* Footer */
+    
+     #footer {
+        background-color: black;
+        height: 50%;
+        width: 100%;
+        position: relative;
+    }
+    
+    #contact0{
+        position: absolute;
+        right: 48%;
+    }
+    
+    
+    .wisdome {
+        position: absolute;
+        top: 70%;
+        left: 1%;
+        font-size: 10px;
+        width: 350px;
+        font-family: 'Lobster', cursive;
+    }
+    
+    
+    .icon1 {
+        position: absolute;
+        top: 52%;
+        right: 5%;
+        width: 20px;
+    }
+    .icon2 {
+        position: absolute;
+        top: 52%;
+        right: 10%;
+        width: 20px;
+    }
+       
+    .icon3 {
+        position: absolute;
+        top: 52%;
+        right: 15%;
+        width: 20px;
+    }
+    
+    .icon4 {
+        position: absolute;
+        top: 52%;
+        right: 20%;
+        width: 20px;
+    }
+    
+    .icon5 {
+        position: absolute;
+        top: 52%;
+        right: 25%;
+        width: 20px;
+    }
+    
+    .myname {
+        color: white;
+        font-size: 10px;
+        position: absolute;
+        top: 50%;
+        left: 3%;
+        color: goldenrod;
+        font-family: 'Lobster', cursive;
+    
+    }
+    
+    .mynumber {
+        font-size: 10px;
+        position: absolute;
+        right: 5%;
+        top: 40%;
+    }
+    
+    .or {
+    
+        font-size: 10px;
+        position: absolute;
+        right: 17%;
+        top: 45%;
+    
+    }
+    
+    .allsection {
+        position: relative;
+        left: 45%;
+        display: inline-block;
+        margin: 20px;
+        font-size: 16px;
+      
+        
+     }
+    
+               /* Objec */
+     
+     .objclass {
+         
+         color: white;
+         font-family: 'Lobster', cursive;
+         font-size: 13px;
+         border: 1px solid black;
+         text-align: center;
+         
+        
+         
+     }
+    
+             /* media for slider */
+    
+    
+     .li1 {
+    
+        width: 250px;
+        height: 300px;
+        background-image: url(./images/Coding-Academy-Logo.jpg);
+        background-size: 250px 300px;
+       
+    }
+    .li2 {
+       width: 250px;
+       height: 300px;
+       background-image: url(./images/univ.png);
+       background-size: 250px 300px;
+    }
+    .li3 {
+       width: 250px;
+       height: 300px;
+       background-image: url(./images/rosary.jpg);
+       background-size: 250px 300px;
+       
+    }
+    
+    .edu1 {
+       margin: auto;
+       width: 250px;
+       overflow: hidden;
+    }
+    
+    @keyframes anim {
+       1% {right: 0px;}
+       50% {right: 250px;}
+       100% {right: 400px;}
+    }
+    
+    
+    
+    .li4{
+       font-size: 16px;
+    }
+      
+    }
+    
+                                          /* New Media */
+    
+    @media screen and (min-width:540px) and (max-width:768px) 
+        
+    {
+    
+        .nav1{
+            width: 786px;
+        }
+             
+        
+        
+        .maincont{
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+            grid-template-rows: repeat(4,340px);
+            width: 100%
+            
+            
+           }
+        
+        
+        .span1 {
+            
+            font-size: 80px;
+            margin: 0px 0px 0px 0px;
+            position: relative;
+            left: 10%;
+            top: 15%;
+            
+        }
+        .span2 {
+        
+            font-size: 50px;
+        
+        }
+        
+        .span3 {
+            font-size: 28px;
+            position: absolute;
+            top:42%;
+            left:34%;   
+        
+        }
+        
+        .span4 {
+            font-size: 20px;
+            position: absolute;
+            top:48%;
+            left: 47%; 
+        
+        }
+        
+        #Asem {
+            width: 50%;
+            border: 0;
+            border-radius: 0% 0% 0% 10%;
+            position: absolute;
+            right: 0%;
+            bottom: 0%;
+        
+        }
+        .fa-code{
+            
+            font-size: 44px;
+        
+        
+        }
+        
+        
+        
+        
+              /* Skills */
+        
+        
+        
+                                                    
+             
+             .skillscon{
+                 display: grid;
+                 grid-template-columns: repeat(3,1fr);
+             }
+             
+             
+             
+             
+             .myskills {
+                 width: 25px;
+             
+             }
+             
+             .myskills1 {
+                 position: absolute;
+                 left: 10%;
+                 top: 25%;
+                  
+             }
+             
+             .skillname{
+                 font-family: 'Cinzel', serif;
+                 font-size: 16px;
+             
+             }
+             
+             
+             
+             
+             .future{
+              
+                 color: white;
+                 font-size: 16px;
+                 font-family: 'Playfair Display', serif;
+                 
+             }
+             
+             .already {
+                 top: 0%;
+                 color: white;
+                 font-size: 16px;
+                 font-family: 'Playfair Display', serif;
+             }
+             
+             .padding1 {
+                 padding-left: 40px;
+             }
+             
+             .padding2 {
+                 padding-left: 50px;
+             }
+             
+             
+             
+             
+             .languages {
+                 width: 20px;
+               
+             }
+             
+             
+         
+         
+         .listskill{
+        
+             font-size: 14px;
+             font-weight: 700;
+             font-family: 'Cinzel', serif;
+         
+         }
+        
+        
+                           /* Footer */
+        
+         #footer {
+            background-color: black;
+            height: 50%;
+            width: 100%;
+            position: relative;
+        }
+        
+        #contact0{
+            position: absolute;
+            right: 48%;
+        }
+        
+        
+        .wisdome {
+            position: absolute;
+            top: 70%;
+            left: 1%;
+            font-size: 14px;
+            width: 350px;
+            font-family: 'Lobster', cursive;
+        }
+        
+        
+        .icon1 {
+            position: absolute;
+            top: 52%;
+            right: 5%;
+            width: 25px;
+        }
+        .icon2 {
+            position: absolute;
+            top: 52%;
+            right: 10%;
+            width: 25px;
+        }
+           
+        .icon3 {
+            position: absolute;
+            top: 52%;
+            right: 15%;
+            width: 25px;
+        }
+        
+        .icon4 {
+            position: absolute;
+            top: 52%;
+            right: 20%;
+            width: 25px;
+        }
+        
+        .icon5 {
+            position: absolute;
+            top: 52%;
+            right: 25%;
+            width: 25px;
+        }
+        
+        .myname {
+            color: white;
+            font-size: 17px;
+            position: absolute;
+            top: 50%;
+            left: 3%;
+            color: goldenrod;
+            font-family: 'Lobster', cursive;
+        
+        }
+        
+        .mynumber {
+            font-size: 15px;
+            position: absolute;
+            right: 5%;
+            top: 40%;
+        }
+        
+        .or {
+        
+            font-size: 14px;
+            position: absolute;
+            right: 17%;
+            top: 45%;
+        
+        }
+        
+        .allsection {
+            position: relative;
+            left: 45%;
+            display: inline-block;
+            margin: 20px;
+            font-size: 16px;
+          
+            
+         }
+        
+                   /* Objec */
+         
+         .objclass {
+             
+             color: white;
+             font-family: 'Lobster', cursive;
+             font-size: 19px;
+             border: 1px solid black;
+             text-align: center;
+             
+            
+             
+         }
+    
+          .theprojects{
+        height: auto;
+        background-color: black;
+       }
+    
+       .maincont{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        justify-content: space-around;
+        width: 100%;
+        
+        
+       }
+    
+    .nn   {
+        
+        color: white;
+        text-align: center;
+        margin-top: 30%;
+        margin-bottom: 70%;
+    }
+    
+    .pro1img {
+        width: 350px;
+        height:200px;
+        border: 3px solid goldenrod;
+    }
+    
+    .nn:hover {
+        cursor: pointer;
+        scale: 1.1;
+        transition: 0.4s;
+    
+    }                                              
+                      /* Projects */
+    
+                      .theprojects{
+                        height: auto;
+                        background-color: black;
+                       }
+                    
+                       .maincont{
+                        display: grid;
+                        grid-template-columns: repeat(1,1fr);
+                        justify-content: space-around;
+                        width: 100%;
+                        
+                        
+                       }
+                    
+                    .nn   {
+                        
+                        color: white;
+                        text-align: center;
+                        margin-top: 10%;
+                        margin-bottom: 70%;
+                    }
+                    
+                    .pro1img {
+                        width: 350px;
+                        height:200px;
+                        border: 3px solid goldenrod;
+                    }
+                    
+                    .nn:hover {
+                        cursor: pointer;
+                        scale: 1.1;
+                        transition: 0.4s;
+                    
+                    }
+        
+                 /* media for slider */
+        
+        
+         .li1 {
+        
+            width: 350px;
+            height: 300px;
+            background-image: url(./images/Coding-Academy-Logo.jpg);
+            background-size: 350px 300px;
+           
+        }
+        .li2 {
+           width: 350px;
+           height: 300px;
+           background-image: url(./images/univ.png);
+           background-size: 350px 300px;
+        }
+        .li3 {
+           width: 350px;
+           height: 300px;
+           background-image: url(./images/rosary.jpg);
+           background-size: 350px 300px;
+           
+        }
+        
+        .edu1 {
+           margin: auto;
+           width: 350px;
+           overflow: hidden;
+        }
+        
+        @keyframes anim {
+           1% {right: 0px;}
+           50% {right: 350px;}
+           100% {right: 400px;}
+        }
+        
+        
+        
+        .li4{
+           font-size: 16px;
+        }
+          
+        }
+    
+    
+        
+                                          /* New Media */
+    
+    @media screen and (min-width:768px) and (max-width:912px) 
+        
+    {
+    
+        .nav1{
+            width: 912px;
+        }
+             
+        
+        
+        .maincont{
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+            grid-template-rows: repeat(4,340px);
+            width: 100%
+            
+            
+           }
+        
+        
+        .span1 {
+            
+            font-size: 80px;
+            margin: 0px 0px 0px 0px;
+            position: relative;
+            left: 10%;
+            top: 15%;
+            
+        }
+        .span2 {
+        
+            font-size: 50px;
+        
+        }
+        
+        .span3 {
+            font-size: 28px;
+            position: absolute;
+            top:42%;
+            left:34%;   
+        
+        }
+        
+        .span4 {
+            font-size: 20px;
+            position: absolute;
+            top:48%;
+            left: 47%; 
+        
+        }
+        
+        #Asem {
+            width: 40%;
+            border: 0;
+            border-radius: 0% 0% 0% 10%;
+            position: absolute;
+            right: 0%;
+            bottom: 0%;
+        
+        }
+        .fa-code{
+            
+            font-size: 44px;
+        
+        
+        }
+        
+        
+        
+        
+              /* Skills */
+        
+        
+        
+                                                    
+             
+             .skillscon{
+                 display: grid;
+                 grid-template-columns: repeat(3,1fr);
+             }
+             
+             
+             
+             
+             .myskills {
+                 width: 25px;
+             
+             }
+             
+             .myskills1 {
+                 position: absolute;
+                 left: 10%;
+                 top: 25%;
+                  
+             }
+             
+             .skillname{
+                 font-family: 'Cinzel', serif;
+                 font-size: 18px;
+             
+             }
+             
+             
+             
+             
+             .future{
+              
+                 color: white;
+                 font-size: 18px;
+                 font-family: 'Playfair Display', serif;
+                 
+             }
+             
+             .already {
+                 top: 0%;
+                 color: white;
+                 font-size: 18px;
+                 font-family: 'Playfair Display', serif;
+             }
+             
+             .padding1 {
+                 padding-left: 40px;
+             }
+             
+             .padding2 {
+                 padding-left: 50px;
+             }
+             
+             
+             
+             
+             .languages {
+                 width: 20px;
+               
+             }
+             
+             
+         
+         
+         .listskill{
+        
+             font-size: 16px;
+             font-weight: 700;
+             font-family: 'Cinzel', serif;
+         
+         }
+        
+        
+                           /* Footer */
+        
+         #footer {
+            background-color: black;
+            height: 50%;
+            width: 100%;
+            position: relative;
+        }
+        
+        #contact0{
+            position: absolute;
+            right: 48%;
+        }
+        
+        
+        .wisdome {
+            position: absolute;
+            top: 70%;
+            left: 1%;
+            font-size: 16px;
+            width: 350px;
+            font-family: 'Lobster', cursive;
+        }
+        
+        
+        .icon1 {
+            position: absolute;
+            top: 52%;
+            right: 5%;
+            width: 25px;
+        }
+        .icon2 {
+            position: absolute;
+            top: 52%;
+            right: 10%;
+            width: 25px;
+        }
+           
+        .icon3 {
+            position: absolute;
+            top: 52%;
+            right: 15%;
+            width: 25px;
+        }
+        
+        .icon4 {
+            position: absolute;
+            top: 52%;
+            right: 20%;
+            width: 25px;
+        }
+        
+        .icon5 {
+            position: absolute;
+            top: 52%;
+            right: 25%;
+            width: 25px;
+        }
+        
+        .myname {
+            color: white;
+            font-size: 19px;
+            position: absolute;
+            top: 50%;
+            left: 3%;
+            color: goldenrod;
+            font-family: 'Lobster', cursive;
+        
+        }
+        
+        .mynumber {
+            font-size: 15px;
+            position: absolute;
+            right: 5%;
+            top: 40%;
+        }
+        
+        .or {
+        
+            font-size: 16px;
+            position: absolute;
+            right: 17%;
+            top: 45%;
+        
+        }
+        
+        .allsection {
+            position: relative;
+            left: 45%;
+            display: inline-block;
+            margin: 20px;
+            font-size: 16px;
+          
+            
+         }
+        
+                   /* Objec */
+         
+         .objclass {
+             
+             color: white;
+             font-family: 'Lobster', cursive;
+             font-size: 19px;
+             border: 1px solid black;
+             text-align: center;
+             
+            
+             
+         }
+    
+          .theprojects{
+        height: auto;
+        background-color: black;
+       }
+    
+       .maincont{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        justify-content: space-around;
+        width: 100%;
+        
+        
+       }
+    
+    .nn   {
+        
+        color: white;
+        text-align: center;
+        margin-top: 30%;
+        margin-bottom: 70%;
+    }
+    
+    .pro1img {
+        width: 350px;
+        height:200px;
+        border: 3px solid goldenrod;
+    }
+    
+    .nn:hover {
+        cursor: pointer;
+        scale: 1.1;
+        transition: 0.4s;
+    
+    }                                              
+                      /* Projects */
+    
+                      .theprojects{
+                        height: auto;
+                        background-color: black;
+                       }
+                    
+                       .maincont{
+                        display: grid;
+                        grid-template-columns: repeat(1,1fr);
+                        justify-content: space-around;
+                        width: 100%;
+                        
+                        
+                       }
+                    
+                    .nn   {
+                        
+                        color: white;
+                        text-align: center;
+                        margin-top: 10%;
+                        margin-bottom: 70%;
+                    }
+                    
+                    .pro1img {
+                        width: 350px;
+                        height:200px;
+                        border: 3px solid goldenrod;
+                    }
+                    
+                    .nn:hover {
+                        cursor: pointer;
+                        scale: 1.1;
+                        transition: 0.4s;
+                    
+                    }
+        
+                 /* media for slider */
+        
+        
+         .li1 {
+        
+            width: 600px;
+            height: 300px;
+            background-image: url(./images/Coding-Academy-Logo.jpg);
+            background-size: 600px 300px;
+           
+        }
+        .li2 {
+           width: 600px;
+           height: 300px;
+           background-image: url(./images/univ.png);
+           background-size: 600px 300px;
+        }
+        .li3 {
+           width: 600px;
+           height: 300px;
+           background-image: url(./images/rosary.jpg);
+           background-size: 600px 300px;
+           
+        }
+        
+        .edu1 {
+           margin: auto;
+           width: 600px;
+           overflow: hidden;
+        }
+        
+        @keyframes anim {
+           1% {right: 0px;}
+           50% {right: 600px;}
+           100% {right: 400px;}
+        }
+        
+        
+        
+        .li4{
+           font-size: 16px;
+        }
+          
+        }
+    
+    
+    
+        /* New Media */
+    
+    @media screen and (min-width:912px) and (max-width:1025px) 
+        
+    {
+    
+        .nav1{
+            width: 1023px;
+        }
+             
+        
+        
+        .maincont{
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+            grid-template-rows: repeat(4,340px);
+            width: 100%
+            
+            
+           }
+        
+        
+        .span1 {
+            
+            font-size: 80px;
+            margin: 0px 0px 0px 0px;
+            position: relative;
+            left: 10%;
+            top: 15%;
+            
+        }
+        .span2 {
+        
+            font-size: 50px;
+        
+        }
+        
+        .span3 {
+            font-size: 28px;
+            position: absolute;
+            top:42%;
+            left:34%;   
+        
+        }
+        
+        .span4 {
+            font-size: 20px;
+            position: absolute;
+            top:48%;
+            left: 47%; 
+        
+        }
+        
+        #Asem {
+            width: 40%;
+            border: 0;
+            border-radius: 0% 0% 0% 10%;
+            position: absolute;
+            right: 0%;
+            bottom: 0%;
+        
+        }
+        .fa-code{
+            
+            font-size: 44px;
+        
+        
+        }
+        
+        
+        
+        
+              /* Skills */
+        
+        
+        
+                                                    
+             
+             .skillscon{
+                 display: grid;
+                 grid-template-columns: repeat(3,1fr);
+             }
+             
+             
+             
+             
+             .myskills {
+                 width: 25px;
+             
+             }
+             
+             .myskills1 {
+                 position: absolute;
+                 left: 10%;
+                 top: 25%;
+                  
+             }
+             
+             .skillname{
+                 font-family: 'Cinzel', serif;
+                 font-size: 18px;
+             
+             }
+             
+             
+             
+             
+             .future{
+              
+                 color: white;
+                 font-size: 18px;
+                 font-family: 'Playfair Display', serif;
+                 
+             }
+             
+             .already {
+                 top: 0%;
+                 color: white;
+                 font-size: 18px;
+                 font-family: 'Playfair Display', serif;
+             }
+             
+             .padding1 {
+                 padding-left: 40px;
+             }
+             
+             .padding2 {
+                 padding-left: 50px;
+             }
+             
+             
+             
+             
+             .languages {
+                 width: 20px;
+               
+             }
+             
+             
+         
+         
+         .listskill{
+        
+             font-size: 16px;
+             font-weight: 700;
+             font-family: 'Cinzel', serif;
+         
+         }
+        
+        
+                           /* Footer */
+        
+         #footer {
+            background-color: black;
+            height: 50%;
+            width: 100%;
+            position: relative;
+        }
+        
+        #contact0{
+            position: absolute;
+            right: 48%;
+        }
+        
+        
+        .wisdome {
+            position: absolute;
+            top: 70%;
+            left: 1%;
+            font-size: 16px;
+            width: 350px;
+            font-family: 'Lobster', cursive;
+        }
+        
+        
+        .icon1 {
+            position: absolute;
+            top: 52%;
+            right: 5%;
+            width: 25px;
+        }
+        .icon2 {
+            position: absolute;
+            top: 52%;
+            right: 10%;
+            width: 25px;
+        }
+           
+        .icon3 {
+            position: absolute;
+            top: 52%;
+            right: 15%;
+            width: 25px;
+        }
+        
+        .icon4 {
+            position: absolute;
+            top: 52%;
+            right: 20%;
+            width: 25px;
+        }
+        
+        .icon5 {
+            position: absolute;
+            top: 52%;
+            right: 25%;
+            width: 25px;
+        }
+        
+        .myname {
+            color: white;
+            font-size: 19px;
+            position: absolute;
+            top: 50%;
+            left: 3%;
+            color: goldenrod;
+            font-family: 'Lobster', cursive;
+        
+        }
+        
+        .mynumber {
+            font-size: 15px;
+            position: absolute;
+            right: 5%;
+            top: 40%;
+        }
+        
+        .or {
+        
+            font-size: 16px;
+            position: absolute;
+            right: 17%;
+            top: 45%;
+        
+        }
+        
+        .allsection {
+            position: relative;
+            left: 45%;
+            display: inline-block;
+            margin: 20px;
+            font-size: 16px;
+          
+            
+         }
+        
+                   /* Objec */
+         
+         .objclass {
+             
+             color: white;
+             font-family: 'Lobster', cursive;
+             font-size: 19px;
+             border: 1px solid black;
+             text-align: center;
+             
+            
+             
+         }
+    
+          .theprojects{
+        height: auto;
+        background-color: black;
+       }
+    
+       .maincont{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        justify-content: space-around;
+        width: 100%;
+        
+        
+       }
+    
+    .nn   {
+        
+        color: white;
+        text-align: center;
+        margin-top: 30%;
+        margin-bottom: 70%;
+    }
+    
+    .pro1img {
+        width: 350px;
+        height:200px;
+        border: 3px solid goldenrod;
+    }
+    
+    .nn:hover {
+        cursor: pointer;
+        scale: 1.1;
+        transition: 0.4s;
+    
+    }                                              
+                      /* Projects */
+    
+                      .theprojects{
+                        height: auto;
+                        background-color: black;
+                       }
+                    
+                       .maincont{
+                        display: grid;
+                        grid-template-columns: repeat(1,1fr);
+                        justify-content: space-around;
+                        width: 100%;
+                        
+                        
+                       }
+                    
+                    .nn   {
+                        
+                        color: white;
+                        text-align: center;
+                        margin-top: 10%;
+                        margin-bottom: 70%;
+                    }
+                    
+                    .pro1img {
+                        width: 350px;
+                        height:200px;
+                        border: 3px solid goldenrod;
+                    }
+                    
+                    .nn:hover {
+                        cursor: pointer;
+                        scale: 1.1;
+                        transition: 0.4s;
+                    
+                    }
+        
+                 /* media for slider */
+        
+        
+         .li1 {
+        
+            width: 600px;
+            height: 300px;
+            background-image: url(./images/Coding-Academy-Logo.jpg);
+            background-size: 600px 300px;
+           
+        }
+        .li2 {
+           width: 600px;
+           height: 300px;
+           background-image: url(./images/univ.png);
+           background-size: 600px 300px;
+        }
+        .li3 {
+           width: 600px;
+           height: 300px;
+           background-image: url(./images/rosary.jpg);
+           background-size: 600px 300px;
+           
+        }
+        
+        .edu1 {
+           margin: auto;
+           width: 600px;
+           overflow: hidden;
+        }
+        
+        @keyframes anim {
+           1% {right: 0px;}
+           50% {right: 600px;}
+           100% {right: 1200px;}
+        }
+        
+        
+        
+        .li4{
+           font-size: 16px;
+        }
+          
+        }
+                 
+    
+    
+    
+    
+    
+        
+        /* New Media */
+    
+    @media screen and (min-width:1026px) and (max-width:1280px) 
+        
+    {
+    
+        .nav1{
+            width: 1280px;
+        }
+             
+        
+        
+        .maincont{
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+            grid-template-rows: repeat(4,340px);
+            width: 100%
+            
+            
+           }
+        
+        
+        .span1 {
+            
+            font-size: 80px;
+            margin: 0px 0px 0px 0px;
+            position: relative;
+            left: 10%;
+            top: 15%;
+            
+        }
+        .span2 {
+        
+            font-size: 50px;
+        
+        }
+        
+        .span3 {
+            font-size: 28px;
+            position: absolute;
+            top:42%;
+            left:34%;   
+        
+        }
+        
+        .span4 {
+            font-size: 20px;
+            position: absolute;
+            top:48%;
+            left: 47%; 
+        
+        }
+        
+        #Asem {
+            width: 40%;
+            border: 0;
+            border-radius: 0% 0% 0% 10%;
+            position: absolute;
+            right: 0%;
+            bottom: 0%;
+        
+        }
+        .fa-code{
+            
+            font-size: 44px;
+        
+        
+        }
+        
+        
+        
+        
+              /* Skills */
+        
+        
+        
+                                                    
+             
+             .skillscon{
+                 display: grid;
+                 grid-template-columns: repeat(3,1fr);
+             }
+             
+             
+             
+             
+             .myskills {
+                 width: 25px;
+             
+             }
+             
+             .myskills1 {
+                 position: absolute;
+                 left: 10%;
+                 top: 25%;
+                  
+             }
+             
+             .skillname{
+                 font-family: 'Cinzel', serif;
+                 font-size: 20px;
+             
+             }
+             
+             
+             
+             
+             .future{
+              
+                 color: white;
+                 font-size: 20px;
+                 font-family: 'Playfair Display', serif;
+                 
+             }
+             
+             .already {
+                 top: 0%;
+                 color: white;
+                 font-size: 20px;
+                 font-family: 'Playfair Display', serif;
+             }
+             
+             .padding1 {
+                 padding-left: 40px;
+             }
+             
+             .padding2 {
+                 padding-left: 50px;
+             }
+             
+             
+             
+             
+             .languages {
+                 width: 20px;
+               
+             }
+             
+             
+         
+         
+         .listskill{
+        
+             font-size: 20px;
+             font-weight: 700;
+             font-family: 'Cinzel', serif;
+         
+         }
+        
+        
+                           /* Footer */
+        
+         #footer {
+            background-color: black;
+            height: 50%;
+            width: 100%;
+            position: relative;
+        }
+        
+        #contact0{
+            position: absolute;
+            right: 48%;
+        }
+        
+        
+        .wisdome {
+            position: absolute;
+            top: 70%;
+            left: 1%;
+            font-size: 20px;
+            width: 350px;
+            font-family: 'Lobster', cursive;
+        }
+        
+        
+        .icon1 {
+            position: absolute;
+            top: 52%;
+            right: 5%;
+            width: 25px;
+        }
+        .icon2 {
+            position: absolute;
+            top: 52%;
+            right: 10%;
+            width: 25px;
+        }
+           
+        .icon3 {
+            position: absolute;
+            top: 52%;
+            right: 15%;
+            width: 25px;
+        }
+        
+        .icon4 {
+            position: absolute;
+            top: 52%;
+            right: 20%;
+            width: 25px;
+        }
+        
+        .icon5 {
+            position: absolute;
+            top: 52%;
+            right: 25%;
+            width: 25px;
+        }
+        
+        .myname {
+            color: white;
+            font-size: 19px;
+            position: absolute;
+            top: 50%;
+            left: 3%;
+            color: goldenrod;
+            font-family: 'Lobster', cursive;
+        
+        }
+        
+        .mynumber {
+            font-size: 16px;
+            position: absolute;
+            right: 5%;
+            top: 40%;
+        }
+        
+        .or {
+        
+            font-size: 18px;
+            position: absolute;
+            right: 17%;
+            top: 45%;
+        
+        }
+        
+        .allsection {
+            position: relative;
+            left: 45%;
+            display: inline-block;
+            margin: 20px;
+            font-size: 16px;
+          
+            
+         }
+        
+                   /* Objec */
+         
+         .objclass {
+             
+             color: white;
+             font-family: 'Lobster', cursive;
+             font-size: 19px;
+             border: 1px solid black;
+             text-align: center;
+             
+            
+             
+         }
+    
+          .theprojects{
+        height: auto;
+        background-color: black;
+       }
+    
+       .maincont{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        justify-content: space-around;
+        width: 100%;
+        
+        
+       }
+    
+    .nn   {
+        
+        color: white;
+        text-align: center;
+        margin-top: 30%;
+        margin-bottom: 70%;
+    }
+    
+    .pro1img {
+        width: 350px;
+        height:200px;
+        border: 3px solid goldenrod;
+    }
+    
+    .nn:hover {
+        cursor: pointer;
+        scale: 1.1;
+        transition: 0.4s;
+    
+    }                                              
+                      /* Projects */
+    
+                      .theprojects{
+                        height: auto;
+                        background-color: black;
+                       }
+                    
+                       .maincont{
+                        display: grid;
+                        grid-template-columns: repeat(3,1fr);
+                        justify-content: space-around;
+                        width: 100%;
+                        
+                        
+                       }
+                    
+                    .nn   {
+                        
+                        color: white;
+                        text-align: center;
+                        margin-top: 10%;
+                        margin-bottom: 70%;
+                    }
+                    
+                    .pro1img {
+                        width: 350px;
+                        height:200px;
+                        border: 3px solid goldenrod;
+                    }
+                    
+                    .nn:hover {
+                        cursor: pointer;
+                        scale: 1.1;
+                        transition: 0.4s;
+                    
+                    }
+        
+                 /* media for slider */
+        
+        
+         .li1 {
+        
+            width: 600px;
+            height: 300px;
+            background-image: url(./images/Coding-Academy-Logo.jpg);
+            background-size: 600px 300px;
+           
+        }
+        .li2 {
+           width: 600px;
+           height: 300px;
+           background-image: url(./images/univ.png);
+           background-size: 600px 300px;
+        }
+        .li3 {
+           width: 600px;
+           height: 300px;
+           background-image: url(./images/rosary.jpg);
+           background-size: 600px 300px;
+           
+        }
+        
+        .edu1 {
+           margin: auto;
+           width: 600px;
+           overflow: hidden;
+        }
+        
+        @keyframes anim {
+           1% {right: 0px;}
+           50% {right: 600px;}
+           100% {right: 1200px;}
+        }
+        
+        
+        
+        .li4{
+           font-size: 18px;
+        }
+          
+        }
+    
+                 
+
