@@ -1,10 +1,18 @@
 
 @media screen and (max-width:361px){ 
 
-    .nav1{
-        width: 359px;
+
+
+
+    
+
+    .Nav_bar{
+        display: none;
+        
     }
-         
+         #dd1 {
+            display: inline;
+         }
     
     
     .maincont{
@@ -330,9 +338,13 @@
     @media screen and (min-width:361px) and (max-width:414px){ 
     
     
-        .nav1{
-            width: 415px;
+        .Nav_bar{
+            display: none;
+            
         }
+             #dd1 {
+                display: inline;
+             }
              
         
         
@@ -638,9 +650,13 @@
     
     {
     
-    .nav1{
-        width: 540px;
-    }
+        .Nav_bar{
+            display: none;
+            
+        }
+             #dd1 {
+                display: inline;
+             }
          
     
     
@@ -947,9 +963,13 @@
         
     {
     
-        .nav1{
-            width: 786px;
+        .Nav_bar{
+            display: none;
+            
         }
+             #dd1 {
+                display: inline;
+             }
              
         
         
@@ -1320,10 +1340,13 @@
         
     {
     
-        .nav1{
-            width: 912px;
+        .Nav_bar{
+            display: none;
+            
         }
-             
+             #dd1 {
+                display: inline;
+             }   
         
         
         .maincont{
@@ -1692,10 +1715,13 @@
         
     {
     
-        .nav1{
-            width: 1023px;
+       .Nav_bar{
+            display: none;
+            
         }
-             
+             #dd1 {
+                display: inline;
+             }  
         
         
         .maincont{
@@ -2239,31 +2265,31 @@
         
         .icon1 {
             position: absolute;
-            top: 52%;
+            top:70%;
             right: 5%;
-            width: 25px;
+            width: 30px;
         }
         .icon2 {
             position: absolute;
-            top: 52%;
+            top:70%;;
             right: 10%;
-            width: 25px;
+            width: 30px;
         }
            
     
         
         .icon4 {
             position: absolute;
-            top: 52%;
-            right: 15;
-            width: 25px;
+            top:70%;
+            right: 15%;
+            width: 30px;
         }
         
         .icon5 {
             position: absolute;
-            top: 52%;
+            top:70%;
             right: 20%;
-            width: 25px;
+            width: 30px;
         }
         
         .myname {
@@ -2280,7 +2306,7 @@
         .mynumber {
             font-size: 16px;
             position: absolute;
-            right: 5%;
+            right: 3%;
             top: 40%;
         }
         
@@ -2288,8 +2314,8 @@
         
             font-size: 18px;
             position: absolute;
-            right: 17%;
-            top: 45%;
+            right: 13%;
+            top: 50%;
         
         }
         
