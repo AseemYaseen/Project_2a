@@ -49,6 +49,7 @@ html {
     font-weight: 800;
     position: relative;
     top: 10px;
+    font-size: 20px;
 }
 
 
@@ -159,14 +160,8 @@ header {
     color:rgb(255, 217, 0);
 }
 
-.span4 {
-    font-size: 32px;
-    position: absolute;
-    top:60%;
-    left: 53%; 
-    color:#808080
 
-}
+
 
 #Asem {
     width: 30%;
@@ -385,6 +380,7 @@ header {
 
 .languages {
     width: 70px;
+    padding: 5px;
   
 }
 
@@ -452,10 +448,7 @@ header {
     position: relative;
 }
 
-#contact0{
-    position: absolute;
-    right: 48%;
-}
+
 
 
 .wisdome {
@@ -515,7 +508,7 @@ header {
     color: goldenrod;
     font-weight: 800;
     position: absolute;
-    right: 7%;
+    right: 4%;
     top: 50%;
 }
 
