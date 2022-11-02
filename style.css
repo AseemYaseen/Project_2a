@@ -476,11 +476,11 @@ header {
 
 .wisdome {
     position: absolute;
-    top: 50%;
-    left: 32%;
+    top: 60%;
+    left: 28%;
     color: goldenrod;
     font-size: 30px;
-    width: 500px;
+    width: auto;
     font-family: 'Lobster', cursive;
 }
 
@@ -519,7 +519,7 @@ header {
     color: white;
     font-size: 40px;
     position: absolute;
-    top: 50%;
+    top: 38%;
     left: 3%;
     color: goldenrod;
     font-family: 'Lobster', cursive;
@@ -532,7 +532,7 @@ header {
     font-weight: 800;
     position: absolute;
     right: 4%;
-    top: 50%;
+    top: 40%;
 }
 
 .or {
@@ -542,7 +542,7 @@ header {
     font-weight: 800;
     position: absolute;
     right: 19%;
-    top: 59%;
+    top: 55%;
 
 }
 
