@@ -21,6 +21,23 @@ html {
     display: none;
 }
 
+#cvlink{
+    color: goldenrod;
+    font-size: 30px;
+    font-weight: 800;
+    position: absolute;
+    right: 35%;
+    bottom: 30%;
+    transition: 0.5s;
+    text-decoration: none;
+   
+}
+
+#cvlink:hover {
+         scale: 1.2;
+        color: white;
+        }
+
 .nav1 {
     
     display: flex;
